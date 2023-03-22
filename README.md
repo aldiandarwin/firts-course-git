@@ -1,4 +1,4 @@
-<h1>hasil karya management barudak course</h1>
+<h1>terima kasih telah berkunjung ke github kami</h1>
 
 based url: https://deaaprizal.github.io/deacourse-starter-temp-w-new-age-lib
 check routes url team di: 
